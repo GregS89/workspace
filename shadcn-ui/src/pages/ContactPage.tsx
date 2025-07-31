@@ -104,8 +104,8 @@ const ContactPage = () => {
                       </div>
                       <div>
                         <h3 className="font-bold text-lg mb-1">Phone</h3>
-                        <p className="text-gray-700">Main: +254 712 345 678</p>
-                        <p className="text-gray-700">Emergency: +254 700 111 222</p>
+                        <p className="text-gray-700">Main: +254 797 737 249</p>
+                        <p className="text-gray-700">Emergency: +254 755 270 812</p>
                       </div>
                     </div>
                     
@@ -115,8 +115,8 @@ const ContactPage = () => {
                       </div>
                       <div>
                         <h3 className="font-bold text-lg mb-1">Email</h3>
-                        <p className="text-gray-700">info@afyahospital.co.ke</p>
-                        <p className="text-gray-700">appointments@afyahospital.co.ke</p>
+                        <p className="text-gray-700">hello@avocenthealthcare.com</p>
+                        <p className="text-gray-700">appointments@avocenthealthcare.com</p>
                       </div>
                     </div>
                     

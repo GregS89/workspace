@@ -73,13 +73,13 @@ const Footer = () => {
                 <span>123 Hospital Road, Nairobi, Kenya</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-300">
-                <span>+254 712 345 678</span>
+                <span>+254 755 270 812</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-300">
-                <span>info@afyahospital.co.ke</span>
+                <span>info@avocenthealthcare.com</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-300">
-                <span>Emergency: +254 700 111 222</span>
+                <span>Emergency: +254 797 737 249</span>
               </li>
             </ul>
           </div>

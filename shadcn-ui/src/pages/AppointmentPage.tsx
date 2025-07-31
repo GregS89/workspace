@@ -335,7 +335,7 @@ const AppointmentPage = () => {
                     
                     <div>
                       <h4 className="font-semibold text-lg mb-2">Emergency Contact</h4>
-                      <p className="text-primary font-bold">+254 700 111 222</p>
+                      <p className="text-primary font-bold">+254 797 737 249</p>
                       <p className="text-sm text-gray-600">Available 24/7</p>
                     </div>
                     
@@ -354,7 +354,7 @@ const AppointmentPage = () => {
                       <p className="text-sm text-blue-700 mb-2">
                         If you need assistance with booking your appointment, please call our patient support line:
                       </p>
-                      <p className="font-bold">+254 712 345 678</p>
+                      <p className="font-bold">+254 755 270 812</p>
                     </div>
                   </div>
                 </CardContent>
