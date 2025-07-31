@@ -15,7 +15,7 @@ const EmergencySection = () => {
             <Phone className="h-8 w-8 text-white" />
             <div>
               <p className="text-white/80">Emergency Hotline</p>
-              <p className="text-white text-2xl font-bold">+254 700 111 222</p>
+              <p className="text-white text-2xl font-bold">+254 797 737 249</p>
             </div>
           </div>
         </div>
