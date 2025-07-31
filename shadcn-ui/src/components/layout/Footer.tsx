@@ -13,7 +13,7 @@ const Footer = () => {
               <h3 className="text-lg font-bold">Avocent Healthcare</h3>
             </div>
             <p className="text-gray-300 mb-4">
-              Providing quality healthcare services in Kenya since 2005. Your health is our priority.
+              Providing quality healthcare services in Kenya since 2022. Your health is our priority.
             </p>
             <div className="flex space-x-4">
               <a href="https://facebook.com" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-white">
@@ -61,7 +61,7 @@ const Footer = () => {
               <li className="text-gray-300">Pediatrics</li>
               <li className="text-gray-300">Maternity</li>
               <li className="text-gray-300">Surgery</li>
-              <li className="text-gray-300">Dental Care</li>
+              <li className="text-gray-300">Pharmacy Services</li>
             </ul>
           </div>
 
@@ -70,7 +70,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
             <ul className="space-y-3">
               <li className="flex items-start space-x-3 text-gray-300">
-                <span>123 Hospital Road, Nairobi, Kenya</span>
+                <span>123 NextGen Mall, Nairobi, Kenya</span>
               </li>
               <li className="flex items-center space-x-3 text-gray-300">
                 <span>+254 755 270 812</span>

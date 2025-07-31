@@ -31,7 +31,7 @@ const HeroSection = () => {
               <span>Emergency Service</span>
             </div>
             <div className="bg-white/20 backdrop-blur-sm rounded-lg px-4 py-3">
-              <span className="font-bold">Call Now:</span> +254 700 111 222
+              <span className="font-bold">Call Now:</span> +254 797 737 249
             </div>
           </div>
         </div>
