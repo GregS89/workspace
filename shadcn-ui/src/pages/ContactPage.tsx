@@ -92,7 +92,7 @@ const ContactPage = () => {
                       <div>
                         <h3 className="font-bold text-lg mb-1">Address</h3>
                         <p className="text-gray-700">
-                          123 Hospital Road<br />
+                          123 NextGen Mall<br />
                           Nairobi, Kenya
                         </p>
                       </div>
