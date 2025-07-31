@@ -40,10 +40,10 @@ const DoctorsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Our Doctors | Afya Hospital</title>
+        <title>Our Doctors | Avocent Healthcare</title>
         <meta
           name="description"
-          content="Meet our team of highly qualified doctors at Afya Hospital. Find doctor profiles, specialties, and schedules."
+          content="Meet our team of highly qualified doctors at Avocent Healthcare. Find doctor profiles, specialties, and schedules."
         />
       </Helmet>
 

@@ -25,8 +25,8 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
-            <img src="/images/Logo.jpg" alt="Afya Hospital" width={40} height={40} className="w-10 h-10" />
-            <span className="text-xl font-bold text-primary">Afya Hospital</span>
+            <img src="/images/Logo.jpg" alt="Avocent Healthcare" width={40} height={40} className="w-10 h-10" />
+            <span className="text-xl font-bold text-primary">Avocent Healthcare</span>
           </Link>
 
           {/* Desktop Navigation */}

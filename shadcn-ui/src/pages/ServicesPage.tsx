@@ -24,8 +24,8 @@ const ServicesPage = () => {
   return (
     <>
       <Helmet>
-        <title>Our Services | Afya Hospital</title>
-        <meta name="description" content="Explore the comprehensive medical services offered at Afya Hospital including General Medicine, Pediatrics, Maternity, Surgery, and more." />
+        <title>Our Services | Avocent Healthcare</title>
+        <meta name="description" content="Explore the comprehensive medical services offered at Avocent Healthcare including General Medicine, Pediatrics, Maternity, Surgery, and more." />
       </Helmet>
 
       {/* Hero Section */}
@@ -33,7 +33,7 @@ const ServicesPage = () => {
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Our Medical Services</h1>
           <p className="text-lg text-gray-700 max-w-3xl">
-            At Afya Hospital, we provide a wide range of healthcare services to meet the diverse needs of our patients.
+            At Avocent Healthcare, we provide a wide range of healthcare services to meet the diverse needs of our patients.
             Our medical professionals are committed to delivering exceptional care in all specialties.
           </p>
         </div>

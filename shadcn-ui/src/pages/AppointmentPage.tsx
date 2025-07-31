@@ -75,10 +75,10 @@ const AppointmentPage = () => {
   return (
     <>
       <Helmet>
-        <title>Book an Appointment | Afya Hospital</title>
+        <title>Book an Appointment | Avocent Healthcare</title>
         <meta
           name="description"
-          content="Book an appointment with our doctors at Afya Hospital. Easy online appointment scheduling for your healthcare needs."
+          content="Book an appointment with our doctors at Avocent Healthcare. Easy online appointment scheduling for your healthcare needs."
         />
       </Helmet>
 
@@ -87,7 +87,7 @@ const AppointmentPage = () => {
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Book an Appointment</h1>
           <p className="text-lg text-gray-700 max-w-3xl">
-            Schedule your visit to Afya Hospital. Our team of medical professionals is ready to provide you with
+            Schedule your visit to Avocent Healthcare. Our team of medical professionals is ready to provide you with
             the care you need.
           </p>
         </div>

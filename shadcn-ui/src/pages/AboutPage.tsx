@@ -6,16 +6,16 @@ const AboutPage = () => {
   return (
     <>
       <Helmet>
-        <title>About Us | Afya Hospital</title>
-        <meta name="description" content="Learn about Afya Hospital's mission, vision, values, history and our leadership team." />
+        <title>About Us | Avocent Healthcare</title>
+        <meta name="description" content="Learn about Avocent Healthcare's mission, vision, values, history and our leadership team." />
       </Helmet>
 
       {/* Hero Section */}
       <div className="bg-gray-100 py-16">
         <div className="container mx-auto px-4">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">About Afya Hospital</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">About Avocent Healthcare</h1>
           <p className="text-lg text-gray-700 max-w-3xl">
-            Established in 2005, Afya Hospital has grown to become one of Kenya's leading healthcare providers,
+            Established in 2005, Avocent Healthcare has grown to become one of Kenya's leading healthcare providers,
             offering comprehensive medical services with a focus on quality, compassion, and accessibility.
           </p>
         </div>
@@ -70,7 +70,7 @@ const AboutPage = () => {
                 <div className="flex-grow pb-8">
                   <h3 className="text-xl font-bold mb-2">Founded in Nairobi</h3>
                   <p className="text-gray-700">
-                    Afya Hospital was established with the mission to provide quality healthcare services to the local community.
+                    Avocent Healthcare was established with the mission to provide quality healthcare services to the local community.
                     Started with just 20 beds and 5 doctors.
                   </p>
                 </div>

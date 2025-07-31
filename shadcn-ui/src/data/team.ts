@@ -6,7 +6,7 @@ export const teamMembers: TeamMember[] = [
     name: "Dr. Samuel Mwangi",
     position: "Chief Medical Officer",
     image: "/assets/team/team1.jpg",
-    bio: "Dr. Samuel Mwangi has over 25 years of medical experience and has been leading Afya Hospital since its founding. He is committed to providing high-quality healthcare services to all Kenyans."
+    bio: "Dr. Samuel Mwangi has over 25 years of medical experience and has been leading Avocent Healthcare since its founding. He is committed to providing high-quality healthcare services to all Kenyans."
   },
   {
     id: 2,
@@ -27,6 +27,6 @@ export const teamMembers: TeamMember[] = [
     name: "John Kariuki",
     position: "Hospital Administrator",
     image: "/assets/team/team4.jpg",
-    bio: "John Kariuki manages the day-to-day operations of Afya Hospital. His expertise in healthcare administration has been instrumental in the hospital's growth and development."
+    bio: "John Kariuki manages the day-to-day operations of Avocent Healthcare. His expertise in healthcare administration has been instrumental in the hospital's growth and development."
   }
 ];

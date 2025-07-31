@@ -10,8 +10,8 @@ const HomePage = () => {
   return (
     <>
       <Helmet>
-        <title>Afya Hospital - Quality Healthcare in Kenya</title>
-        <meta name="description" content="Afya Hospital provides quality healthcare services in Kenya. Book appointments online, meet our doctors, and learn about our specialized medical services." />
+        <title>Avocent Healthcare - Quality Healthcare in Kenya</title>
+        <meta name="description" content="Avocent Healthcare provides quality healthcare services in Kenya. Book appointments online, meet our doctors, and learn about our specialized medical services." />
       </Helmet>
       
       <HeroSection />

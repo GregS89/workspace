@@ -23,7 +23,7 @@ const TestimonialsSection = () => {
             What Our Patients Say
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Don't just take our word for it. Here's what our patients have to say about their experience at Afya Hospital.
+            Don't just take our word for it. Here's what our patients have to say about their experience at Avocent Healthcare.
           </p>
         </div>
 

@@ -57,10 +57,10 @@ const ContactPage = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us | Afya Hospital</title>
+        <title>Contact Us | Avocent Healthcare</title>
         <meta
           name="description"
-          content="Get in touch with Afya Hospital. Find our location, contact information, and send us a message."
+          content="Get in touch with Avocent Healthcare. Find our location, contact information, and send us a message."
         />
       </Helmet>
 
@@ -245,7 +245,7 @@ const ContactPage = () => {
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
-                title="Afya Hospital Location"
+                title="Avocent Healthcare Location"
               ></iframe>
             </div>
           </div>

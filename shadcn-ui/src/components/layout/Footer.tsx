@@ -9,8 +9,8 @@ const Footer = () => {
           {/* About */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <img src="/images/Logo.jpg" alt="Afya Hospital" className="w-8 h-8" />
-              <h3 className="text-lg font-bold">Afya Hospital</h3>
+              <img src="/images/Logo.jpg" alt="Avocent Healthcare" className="w-8 h-8" />
+              <h3 className="text-lg font-bold">Avocent Healthcare</h3>
             </div>
             <p className="text-gray-300 mb-4">
               Providing quality healthcare services in Kenya since 2005. Your health is our priority.
@@ -88,7 +88,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-8 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Afya Hospital. All rights reserved. Licensed by Kenya Ministry of Health.
+              © {new Date().getFullYear()} Avocent Healthcare. All rights reserved. Licensed by Kenya Ministry of Health.
             </p>
             <div className="mt-4 md:mt-0">
               <ul className="flex space-x-4 text-sm text-gray-400">

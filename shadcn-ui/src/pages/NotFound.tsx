@@ -6,7 +6,7 @@ const NotFound = () => {
   return (
     <>
       <Helmet>
-        <title>Page Not Found | Afya Hospital</title>
+        <title>Page Not Found | Avocent Healthcare</title>
       </Helmet>
       
       <div className="flex items-center justify-center min-h-[70vh] px-4">
